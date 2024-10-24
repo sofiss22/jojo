@@ -1,7 +1,6 @@
-nombre="sofiaymanu"
-print(nombre)
-edaddesofiaymanu=16
-edadparavotar=16
-puedevotar=edad>=edadparavotar
-if puedevotar:
-    print("puede votar")
+empieza=1
+termina=11
+for contador in rage (empieza,termina)
+print(contador)
+booleano=True or False
+booleano=18<20
